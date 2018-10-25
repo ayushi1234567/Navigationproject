@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/myprofile"
+        android:title="My Profile"
+        android:icon="@drawable/account">
+
+
+
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        android:icon="@drawable/settings">
+
+    </item>
+    <item
+        android:id="@+id/editprofile"
+        android:title="Edit profile"
+        android:icon="@drawable/edit">
+    </item>
+
+
+</menu>
